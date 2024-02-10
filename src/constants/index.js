@@ -199,9 +199,9 @@ import {
   
   const projects = [
     {
-      name: "Mobile Application for Game Addiction",
+      name: "Figma-Clone",
       description:
-        "React Native and NodeJS were used to create a mobile application. This smartphone software could be served as a treatment for game addiction.",
+        "Figma clone with real-world features like live collaboration through cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using Fabric.js and Liveblocks.",
       tags: [
         {
           name: "react",
@@ -217,7 +217,7 @@ import {
         },
       ],
       image: github,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/AdhilMarzook/FigmaClone.git",
     },
     {
       name: "Tailor-Made SL",
