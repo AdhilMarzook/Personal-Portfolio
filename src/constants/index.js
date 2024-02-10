@@ -204,16 +204,20 @@ import {
         "Figma clone with real-world features like live collaboration through cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using Fabric.js and Liveblocks.",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "firebase",
+          name: "NextJS",
           color: "green-text-gradient",
         },
         {
-          name: "expo",
+          name: "LiveBlocks",
           color: "pink-text-gradient",
+        },
+        {
+          name: "FabricJS",
+          color: "blue-text-gradient",
         },
       ],
       image: github,
