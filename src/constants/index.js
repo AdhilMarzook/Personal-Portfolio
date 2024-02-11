@@ -245,25 +245,29 @@ import {
       source_code_link: "https://github.com/AdhilMarzook/Tailer-Made-SL.git",
     },
     {
-      name: "Trip Guide",
+      name: "Trello-Clone 2.0",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "TRELLO 2.0 with REACT! (Next.js 13.4, GPT-4, Drag & Drop, Zustand, Appwrite Cloud, TS)",
       tags: [
         {
           name: "nextjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "GPT-4",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Zustand",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Appwrite Cloud",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: github,
+      source_code_link: "https://github.com/AdhilMarzook/Trello-appwrite-clone.git",
     },
   ];
   
